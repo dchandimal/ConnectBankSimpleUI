@@ -1,6 +1,6 @@
 import React from "react";
 import Herosection from "./Components/Herosection";
-import "./App.css"; // Ensure you import your CSS
+import "./App.css";
 
 const App = () => {
   return (

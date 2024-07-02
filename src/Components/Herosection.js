@@ -28,7 +28,7 @@ const Overall = () => {
                 placeholder="Type your work email"
                 className="px-4 py-2 text-sm text-gray-900 bg-white border-gray-300 border-none rounded-l-md focus:outline-none focus:border-transparent"
               />
-              <button className="px-4 py-2 -ml-1 text-sm font-semibold text-white bg-green-600 rounded-md hover:bg-green-500 focus:outline-none focus:ring-2 focus:ring-green-600">
+              <button className="px-4 py-2 -ml-1 text-sm font-semibold text-white transition-transform bg-green-600 rounded-md hover:bg-green-500 focus:outline-none focus:ring-2 focus:ring-green-600 hover:scale-110">
                 Get started
               </button>
             </div>
